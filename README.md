@@ -2,4 +2,4 @@
 
 
 ## Cover
-[cover](image/封面.png)
+![cover](image/封面.png)
